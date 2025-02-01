@@ -1,5 +1,6 @@
 # Wrenone Pinner - Keep Windows Always on Top!
 
+Go to Releases to Download .exe file
 ## What is it?
 Wrenone Pinner is a simple tool that lets you keep any window on top of others. Just like how you can pin a note to a bulletin board, you can pin any window to stay visible!
 
